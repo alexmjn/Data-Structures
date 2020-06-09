@@ -23,3 +23,5 @@ def print_all_possible_ordered_pairs(items):
             my_print_counter((first_item, second_item))
 
 print_all_possible_ordered_pairs(my_items)
+
+#note that constants simplify
